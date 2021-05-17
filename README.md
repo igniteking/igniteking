@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @igniteking
 - 👀 I’m interested in ... EVERYTHING
 - 🌱 I’m currently learning ... 3D MODELING 
-- 💞️ I’m looking to collaborate on ... GAME DEVELOUPMENT
+- 💞️ I’m looking to collaborate on ... GAME DEVELOPMENT
 - 📫 How to reach me ... E-MAIL ME @ KHANZAIDAN786@GMAIL.COM
 
 <!---
