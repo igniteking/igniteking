@@ -1,4 +1,4 @@
-# My name is Zaidan Khan and I'm a Tech-savvy Developer, from India.
+# My name is Micheal Khan and I'm a Tech-savvy Developer, from India.
 
 ###
 
